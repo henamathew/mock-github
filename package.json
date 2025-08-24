@@ -70,7 +70,7 @@
     "fs-extra": "^10.1.0",
     "nock": "^13.2.7",
     "simple-git": "^3.28.0",
-    "totalist": "^3.0.0"
+    "totalist": "^3.0.1"
   },
   "jestSonar": {
     "reportPath": "coverage"
